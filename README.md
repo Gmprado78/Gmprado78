@@ -2,7 +2,7 @@
 
 - 🧠 I’m  a current sophomore at Grand Valley State University
 - 🔏 Cybersecurity Major
-- 🌱 I’m currently learning Pythonn and Linux
+- 🌱 I’m currently learning Python and Linux
 - 🎯 My Goals: Excel in security by learning the best coding practices
 - 📫 How to reach me: www.linkedin.com/in/gabriel-prado-b91ab5254
 - 😄 Pronouns: He/Him
