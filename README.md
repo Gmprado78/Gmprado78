@@ -1,6 +1,6 @@
 ## Hello! I'm Gabriel, nice to meet you 👋😁
 
-- 🧠 I’m  a current sophomore at Grand Valley State University
+- 🧠 I’m  a current Junior at Grand Valley State University
 - 🔏 Cybersecurity Major
 - 🌱 I’m currently learning Python and Linux
 - 🎯 My Goals: Excel in security by learning the best coding practices
